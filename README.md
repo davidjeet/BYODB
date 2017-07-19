@@ -17,7 +17,7 @@ For example, if you choose Postgres, you are choosing the Postgres storage engin
 This would be on .NET Core
 
 Would leverage storage engine that windows uses - ESE 
-Or lightening.net??? (the latter is promising if I can find the github repo because it is based on .NET Core)
+Or lightening.net??? (the latter is promising https://github.com/CoreyKaylor/Lightning.NET because it is based on .NET Core)
 
 Some other interesting articles:
 https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database
